@@ -34,5 +34,3 @@ FINAL NOTES:
 - This WHMCS Payment Integration Module is developed by and for [Hua Hin Webdesign](https://huahinstudios.com) and [Webhosting Thailand](https://deedeehost.com)
 - [WHMCS](https://whmcs.com) is a Web Hosting Automation Platform by WHMCS Limited, United Kingdom
 - [Ksher](https://Ksher.com) is a Payment System Provider by Ksher Payment Co.,Ltd., Thailand
-
-
