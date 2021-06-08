@@ -30,8 +30,9 @@ Sign up at [Ksher](https://Ksher.com), and they'll send you the API details that
 ---
 
 FINAL NOTES:
+- This piece of code operates under a MIT License and is therefore open source and free to use
 - This WHMCS Payment Integration Module is developed by and for [Hua Hin Webdesign](https://huahinstudios.com) and [Webhosting Thailand](https://deedeehost.com)
 - [WHMCS](https://whmcs.com) is a Web Hosting Automation Platform by WHMCS Limited, United Kingdom
 - [Ksher](https://Ksher.com) is a Payment System Provider by Ksher Payment Co.,Ltd., Thailand
 
-MIT License
+
