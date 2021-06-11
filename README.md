@@ -5,7 +5,7 @@
 
 **Release Date:** 9 June, 2021
 
-**Version:** v1.0
+**Version:** v3.0.0
 
 **Compatibility:** WHMCS v8.X+
 
@@ -15,13 +15,16 @@
 
 ---
 
-Sign up at [Ksher](https://Ksher.com), and they'll send you the API details that you need
+Sign up at [Ksher](https://Ksher.com), and they'll send you the APP ID and Private key (.pem) file that you require
 
-1. Fill in your Merchant ID
-2. Fill in your Secure Hash Secret Code
-3. Fill in your Merchant LoginID
-4. Fill in your Merchant Password
-5. SAVE CHANGES
+1. Download and Extract the ksher.zip file to the /modules/gateways/ directory
+2. Upload your Private Key (.pem) file to the /modules/gateways/ksher/ directory
+3. Login to your WHMCS admin panel and go to Payment Gateways
+4. Activate the Ksher Payments Gateway and make sure "Show on Order Form" is enabled
+5. Fill in your APP Merchant ID
+6. Fill in your Private Key path (check with your webhosting provider if you don't know your path)
+8. Select the payment options of your choose, best is to leave on default
+9. SAVE CHANGES
 
 ---
 
