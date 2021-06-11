@@ -3,9 +3,9 @@
 
 ![Logo - WHMCS](https://github.com/hua-hin-studios/WHMCS-KSHER/blob/main/logo-whmcs.png) ![Logo - Ksher](https://github.com/hua-hin-studios/WHMCS-KSHER/blob/main/logo-ksher.png)
 
-**Release Date:** 9 June, 2021
+**Release Date:** 11 June, 2021
 
-**Version:** v3.0.0
+**Latest Version:** v3.0.0
 
 **Compatibility:** WHMCS v8.X+
 
